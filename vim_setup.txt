@@ -1,0 +1,12 @@
+#Rails:
+#
+#JShint:
+#
+#NerdTree:
+
+#.vimrc settings
+set number 
+set runtimepath+=~/.vim/bundle/jshint2.vim/
+syntax on #set nonumber - for turning off
+set ts=2 
+
